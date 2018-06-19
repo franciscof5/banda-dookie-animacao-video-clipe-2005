@@ -1,6 +1,6 @@
-# Dookie College - Animação Flash
+# Dookie College - Animação Flash (2005)
 by Francisco Mat
-Made in 2004
+Made in 2005
 
 Animação criada para o clipe da música College (composta por Luiz), sobre um estudante que não gostava da faculdade e dos professores. Numa levada punk a música é uma crítica e fala sobre a frustração pela qual muitos estudantes passam presos nas salas de aula.
 
